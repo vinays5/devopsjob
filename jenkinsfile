@@ -14,7 +14,7 @@ stage ('Creation of folder')
 {
 steps
 {
-sh "cd /home/ubuntu; sudo mkdir testfolder2"
+sh "cd /home/ubuntu; sudo mkdir testfolder3"
 }
 }
 }
